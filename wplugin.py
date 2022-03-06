@@ -1,3 +1,4 @@
+#Copyrights By Babwa/Kenzawaa
 import requests, argparse
 from bs4 import BeautifulSoup
 
